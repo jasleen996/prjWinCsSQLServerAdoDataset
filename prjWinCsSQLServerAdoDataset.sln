@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjWinCsSQLServerAdoDataset", "prjWinCsSQLServerAdoDataset\prjWinCsSQLServerAdoDataset.csproj", "{2EFDCAD4-AC3F-4310-979E-A23562067D11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EFDCAD4-AC3F-4310-979E-A23562067D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EFDCAD4-AC3F-4310-979E-A23562067D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EFDCAD4-AC3F-4310-979E-A23562067D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EFDCAD4-AC3F-4310-979E-A23562067D11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {846924F1-23CA-4D53-A4A5-EA86E522181B}
+	EndGlobalSection
+EndGlobal
